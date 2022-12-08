@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igoogolx
 - 👀 I’m interested in Golang and Javascript
 
-[![Igoogolx's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoogolx)](https://github.com/anuraghazra/github-readme-stats)
+[![Igoogolx's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoogolx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
